@@ -34,21 +34,6 @@ Here are some ideas to get you started:
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
 </p>
-### GitHub Stats
-<p>
-   <img  align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Radi-dev&show_icons=true&theme=algolia" />
-   <img  align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Radi-dev&theme=algolia" />
-</p>
 
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radi-dev&layout=compact&theme=algolia" />
-</p>
 
-                          
-### Tasks for the year:
-- [ ] Complete portfolio website
-- [ ] Learn Typescript
-- [ ] Learn Blockchain
-- [ ] Start blogging
-- [ ] Apply for internships
-- [ ] Contribute to Open Source
+                    
