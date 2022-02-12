@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
 
 ### About Me:
-- I am a fullstack developer
+- Fullstack developer
 - I enjoy writing scripts in Python
 - I love learning new things
 
