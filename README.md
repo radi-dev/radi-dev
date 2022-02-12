@@ -27,10 +27,12 @@ Here are some ideas to get you started:
 [<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Radi_dev)
 
 ### My Tech Stack:
-<p><img alt="Python" src="https://img.icons8.com/dusk/64/000000/python.png" height=0.5rem />
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1" />
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=white" />
+   <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-61DAFB?style=plastic&logo=react&logoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
 </p>
 ### GitHub Stats
 <p>
