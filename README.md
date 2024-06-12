@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - I love learning new things
 
 ### Find Me:
-[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/evaristus-anarado-788235144/)
-[<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" />](https://twitter.com/Radi_dev)
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" />](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=radibytes)
+[<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" />](https://twitter.com/radibytes)
 
 ### My Tech Stack:
 <p><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
