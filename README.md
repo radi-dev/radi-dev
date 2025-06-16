@@ -1,4 +1,4 @@
-
+![LinkedIn Banner](LinkedIn.png)
    #                    👋Hi there, I am Radi,
 
 <!--
