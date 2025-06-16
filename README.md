@@ -1,4 +1,4 @@
-![LinkedIn Banner](LinkedIn.png)
+![RadiDev Banner](RadiDev_banner.gif)
    #                    👋Hi there, I am Radi,
 
 <!--
