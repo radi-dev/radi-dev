@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ### About Me:
 - Fullstack developer
-- I enjoy writing scripts in Python
 - I love learning new things
 
 ### Find Me:
