@@ -1,4 +1,4 @@
-![RadiDev Banner]("RadiDev Banner.gif")
+![RadiDev Banner](RadiDev_banner.gif)
    #                    👋Hi there, I am Radi,
 
 <!--
